@@ -1,6 +1,6 @@
 # Multiple Choice Quiz in Python | Created by Bence Csomor
 
-Contains 2 programs (quiz.py, question_class.py)
+Contains 2 programs (``quiz.py``, ``question_class.py``)
 
 The ``quiz.py`` program has a list where the questions are stored. The questions are called one-by-one by a self-made module.
 
